@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.brand_color_bg{
+  background-color: #ff6720 !important;
+}
+.brand_color_text{
+  color: #ff6720;
+}
+.brand_color_bg_base{
+  color: #f9e1d6;
+}
+
+.hero_section{
+  height: calc(100vh - 65px);
+}
